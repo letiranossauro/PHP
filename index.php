@@ -1,3 +1,6 @@
 <?php
-    echo "Olá, mundo!";
+    echo "Olá, multiverso!";
+
+    echo "Olá, hcode!";
+
 ?>
